@@ -1,0 +1,61 @@
+body {
+  background-color: #55acee;
+  margin-top: 50px;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 1200px;
+}
+
+header {
+  color: #fff;
+}
+
+.trigger {
+  background-color: #55acee;
+  color: #fff;
+  font-size: 1.5em;
+  margin-bottom: 25px;
+  width: 500px;
+}
+
+.trigger:hover {
+  cursor: pointer;
+}
+
+a {
+  border: 1px solid #fff;
+  color: #fff;
+  display: block;
+  float: none;
+  font-size: 1.5em;
+  text-align: center;
+  text-decoration: none;
+  transition: .4s;
+  width: 500px;
+}
+
+a:hover {
+  background-color: #44abdd;
+}
+
+i {
+  color: #fff;
+}
+
+.flex {
+  margin: 0 auto;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.box {
+  height: 200px;
+}
+ 
+
+ /*# sourceMappingURL= main.css.map */
