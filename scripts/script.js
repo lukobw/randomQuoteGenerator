@@ -35,9 +35,3 @@ function createTweet (input) {
         $('.tweet').attr('href', tweet);
     }
 }
-
-var $quote = $('.quote'),
-    $author = $('.author');
-
-$quote.css('color', 'white').css('font-style', 'italic');
-$author.css('color', 'white').css('font-size', '32px');

@@ -56,6 +56,16 @@ i {
 .box {
   height: 200px;
 }
+
+.quote {
+  color: #fff;
+  font-style: italic;
+}
+
+.author {
+  color: #fff;
+  font-size: 32px;
+}
  
 
  /*# sourceMappingURL= main.css.map */
