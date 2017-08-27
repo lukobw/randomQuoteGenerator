@@ -1,1 +1,2 @@
-https://lukobw.github.io/
+# Random Twitter Quote Generator
+https://lukobw.github.io/randomQuoteGenerator/
